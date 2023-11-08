@@ -1,4 +1,5 @@
 Error corregido
+Nueva operacion añadida
 
 a^b=c
 
@@ -8,3 +9,10 @@ b=2
 5^2=25
 
 c=25
+
+a=2
+b=3
+
+2^3=8
+
+c=8
